@@ -12,9 +12,9 @@ public:
                 swap(nums[i],nums[i+1]); check =1;
             }
         }
-         if(!check){
-                return;
-            }
+         // if(!check){
+         //        return;
+         //    }
          sortColors(nums,n-1);
     }
 };
