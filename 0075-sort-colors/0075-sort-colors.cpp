@@ -1,17 +1,20 @@
 class Solution {
 public:
-    void sortColors(vector<int>& nums) {
-        int n = nums.size();
-        for(int i=0;i<n-1;i++)
-        {
-            int minIndex = i;
-            for(int j= i+1 ;j<n;j++){
-                if(nums[j]<nums[minIndex]){
-                    minIndex = j;
-                }
-            }
-            
-            swap(nums[i],nums[minIndex]);
+    void sortColors(vector<int>& nums,int n = -1) {
+        if(n == -1){
+            n = nums.size();
         }
+        if( n==0 ||n == 1)
+           return ;
+        bool check = 0;
+        for(int i=0;i<n-1;i++){
+            if(nums[i]>nums[i+1]){
+                swap(nums[i],nums[i+1]); check =1;
+            }
+        }
+         if(!check){
+                return;
+            }
+         sortColors(nums,n-1);
     }
 };
