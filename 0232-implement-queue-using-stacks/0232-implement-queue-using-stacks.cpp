@@ -1,9 +1,9 @@
-#include <stack>
-
 class MyQueue {
+    private:
+    stack<int> s1,s2;
 public:
     MyQueue() {
-      
+        
     }
     
     void push(int x) {
@@ -11,34 +11,36 @@ public:
     }
     
     int pop() {
-        if (s2.empty()) {
-            while (!s1.empty()) {
-                s2.push(s1.top());
-                s1.pop();
-            }
+        while(!s1.empty()){
+            s2.push(s1.top());
+            s1.pop();
         }
-        int i = s2.top();
+        int i= s2.top();
         s2.pop();
+        
+        while(!s2.empty()){
+            s1.push(s2.top());
+            s2.pop();
+        }
         return i;
     }
     
     int peek() {
-        if (s2.empty()) {
-            while (!s1.empty()) {
-                s2.push(s1.top());
-                s1.pop();
-            }
+        while(!s1.empty()){
+            s2.push(s1.top());
+            s1.pop();
         }
-        return s2.top();
+        int i = s2.top();
+        while(!s2.empty()){
+            s1.push(s2.top());
+            s2.pop();
+        }
+        return i;
     }
     
     bool empty() {
         return s1.empty() && s2.empty();
     }
-
-private:
-    std::stack<int> s1;
-    std::stack<int> s2;
 };
 
 /**
