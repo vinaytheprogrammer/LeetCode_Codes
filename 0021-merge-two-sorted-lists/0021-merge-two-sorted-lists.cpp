@@ -14,7 +14,7 @@ public:
         ListNode* current = &dummy;
 
     // Traverse both lists
-        while (l1 != nullptr && l2 != nullptr) {
+        while (l1 != NULL && l2 != nullptr) {
             if (l1->val <= l2->val) {
                 current->next = l1;
                 l1 = l1->next;
