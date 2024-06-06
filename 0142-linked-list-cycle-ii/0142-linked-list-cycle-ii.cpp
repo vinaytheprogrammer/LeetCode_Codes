@@ -38,6 +38,8 @@ public:
         fast = fast->next;
     }
 
-    return fast; // Both pointers meet at the start of the cycle
+    return slow; // Both pointers meet at the start of the cycle
 }
+  
+
 };
