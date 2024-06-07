@@ -20,13 +20,14 @@ public:
         return ans;
     }
     
+    // logic for removing string from a sentence
     
     vector<string> splitString(const string& str) {
-        istringstream iss(str);
+        istringstream iss(str); //Create a string stream from the input string.
         vector<string> result;
         string word;
 
-        while (iss >> word) {
+        while (iss >> word) { //Read words from the stream into word until no more words are found.
             result.push_back(word);
         }
 
