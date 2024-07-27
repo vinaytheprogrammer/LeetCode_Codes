@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3462-vowels-game-in-a-string) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
 |  |
 | ------- |
@@ -37,8 +38,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3462-vowels-game-in-a-string) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
