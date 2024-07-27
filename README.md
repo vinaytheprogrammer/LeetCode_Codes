@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1646-kth-missing-positive-number](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/1646-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1646-kth-missing-positive-number](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/1646-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |
