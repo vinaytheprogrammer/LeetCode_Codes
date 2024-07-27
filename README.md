@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0050-powx-n) |
 | [3462-vowels-game-in-a-string](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## String
@@ -47,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
