@@ -21,4 +21,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3462-vowels-game-in-a-string) |
+## String
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
