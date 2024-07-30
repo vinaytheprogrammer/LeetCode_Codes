@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vinaytheprogrammer/LeetCode_Codes/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
